@@ -162,6 +162,7 @@ set(SOURCE
     ${CMAKE_CURRENT_SOURCE_DIR}/displayarea.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/floatingvaluesdialog.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/koradscpi.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/manson-hcs3xxx.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/labpowercontroller.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/labpowermodel.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp

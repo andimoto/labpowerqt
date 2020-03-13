@@ -18,6 +18,7 @@
 #include "settingsdefinitions.h"
 
 #include "koradscpi.h"
+#include "manson-hcs3xxx.h"
 #include "powersupplystatus.h"
 #include "serialcommand.h"
 

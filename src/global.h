@@ -34,7 +34,7 @@
  */
 namespace global_constants
 {
-enum class LPQ_PROTOCOL { KORADV2 = 0 };
+enum class LPQ_PROTOCOL { KORADV2 = 0, MANSON_HCS3X };
 enum class LPQ_CHANNEL { CHANNEL1 = 1, CHANNEL2, CHANNEL3, CHANNEL4 };
 enum class LPQ_MODE { CONSTANT_CURRENT = 0, CONSTANT_VOLTAGE };
 enum class LPQ_TRACKING { INDEPENDENT = 0, SERIES, PARALELL };
